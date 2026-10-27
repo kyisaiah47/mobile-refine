@@ -83,3 +83,7 @@ Tests serve temporary good/bad layouts on an ephemeral loopback port. They verif
 ## License and dependencies
 
 Copyright 2026 Compound Labs. All rights reserved. [License](LICENSE) permits installation, execution, and private adaptation for personal or internal business workflows. Playwright and Chromium are separate dependencies with their own licenses; their binaries are not bundled here.
+
+## Privacy and terms
+
+Read the [data-handling policy](PRIVACY.md) and [usage terms](LICENSE) before use.

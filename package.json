@@ -1,13 +1,17 @@
 {
   "name": "mobile-refine-publication",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "license": "SEE LICENSE IN LICENSE",
-  "workspaces": ["skills/mobile-refine"],
+  "workspaces": [
+    "skills/mobile-refine"
+  ],
   "scripts": {
     "audit": "node skills/mobile-refine/scripts/audit.mjs",
     "test": "node --test tests/*.test.mjs"
   },
-  "engines": {"node": ">=22"}
+  "engines": {
+    "node": ">=22"
+  }
 }
