@@ -1,6 +1,6 @@
 {
   "name": "mobile-refine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Responsive layout refinement with desktop-to-mobile structure checks and a portable browser audit.",
   "author": {
     "name": "Compound Labs",
@@ -9,5 +9,9 @@
   "homepage": "https://github.com/kyisaiah47/mobile-refine",
   "repository": "https://github.com/kyisaiah47/mobile-refine",
   "license": "Proprietary",
-  "skills": "./skills/"
+  "skills": "./skills/",
+  "displayName": "Mobile Refine",
+  "supportUrl": "https://github.com/kyisaiah47/mobile-refine/issues",
+  "privacyPolicyUrl": "https://github.com/kyisaiah47/mobile-refine/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/kyisaiah47/mobile-refine/blob/main/LICENSE"
 }

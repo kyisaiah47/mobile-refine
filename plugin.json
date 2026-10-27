@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mobile-refine",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Responsive layout refinement with desktop-to-mobile structure checks and a portable browser audit.",
   "author": {
     "name": "Compound Labs",
@@ -30,7 +30,7 @@
         "termsOfServiceURL": "https://github.com/kyisaiah47/mobile-refine/blob/main/LICENSE"
       },
       "publication": {
-        "release_notes": "Add public data-handling documentation and explicit privacy and license links for marketplace submission."
+        "release_notes": "Add Claude Directory display name and privacy, support, and terms links to the Claude plugin manifest."
       }
     }
   }
