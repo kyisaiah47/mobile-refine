@@ -1,0 +1,6 @@
+{
+  "name": "mobile-refine",
+  "metadata": {"description": "Responsive web layout refinement for Codex and Claude Code."},
+  "owner": {"name": "Compound Labs"},
+  "plugins": [{"name": "mobile-refine", "source": "./", "description": "Responsive layout refinement with portable browser measurements."}]
+}

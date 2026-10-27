@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Refine"
+  short_description: "Check mobile structure, fit, and actual user tasks"
+  default_prompt: "Use $mobile-refine to review the responsive layout and verify the primary mobile task."

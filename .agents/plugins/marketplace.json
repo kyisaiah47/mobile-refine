@@ -1,0 +1,20 @@
+{
+  "name": "mobile-refine",
+  "interface": {
+    "displayName": "Mobile Refine"
+  },
+  "plugins": [
+    {
+      "name": "mobile-refine",
+      "source": {
+        "source": "local",
+        "path": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

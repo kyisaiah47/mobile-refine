@@ -1,0 +1,6 @@
+node_modules/
+artifacts/
+*.png
+*.webm
+*.zip
+.DS_Store
